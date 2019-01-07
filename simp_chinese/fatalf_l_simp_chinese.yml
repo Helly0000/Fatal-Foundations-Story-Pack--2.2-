@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
   fatalf.001.name:0 "A Strange Probe"
   fatalf.001.desc_a:0 "The [Root.GetName] reports that their sensors detected a strange energy signature moments before they had collided with a small entity. Closer inspection reveals that it was a probe of [Root.Owner.GetSpeciesAdj] make and was transmitting the first 112 digits of pi on repeat. It is only scrap now."
   fatalf.001.desc_b:0 "The [Root.GetName] reports that their sensors detected a strange energy signature moments before they had collided with a small entity. Closer inspection revealed that it was a probe of [Root.Owner.GetSpeciesAdj] make and was transmitting popular [Root.Owner.GetSpeciesAdj] song. It is only scrap now."
