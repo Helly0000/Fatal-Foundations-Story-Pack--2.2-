@@ -74,15 +74,15 @@
   fatalf.4011.tip:0 "§R啊呃呃呃又一下…§!"
 
   fatalf.900.title:0 "Mod管理器"
-  fatalf.900.desc:0 "使用此菜单可以更改Fatal Foundations事件的各个方面。不稳定性决定了随机事件和异常的可能性。其他选项可以确定某些事件和危机是否可能发生。"
+  fatalf.900.desc:0 "使用此菜单可以更改致命基础事件的各个方面。不稳定性决定了随机事件和异常的可能性。其他选项可以确定某些事件和危机是否可能发生。"
 
-  edict_fatalf_manager:0 "Fatal Foundations 管理器"
-  edict_fatalf_manager_desc:0 "用这个菜单调整Fatal Foundations事件的各个方面"
+  edict_fatalf_manager:0 "致命基础管理器"
+  edict_fatalf_manager_desc:0 "用这个菜单调整致命基础事件的各个方面"
 
-  shipsize_seed_ship_construction_speed_mult:0 "种子船"
-  shipsize_seed_ship_build_cost_mult:0 "种子船"
-  shipsize_seed_ship_upkeep_mult:0 "种子船"
-  OVERGROWTH:0 "过度增长"
+  shipsize_seed_ship_construction_speed_mult:0 "孢子船"
+  shipsize_seed_ship_build_cost_mult:0 "孢子船"
+  shipsize_seed_ship_upkeep_mult:0 "孢子船"
+  OVERGROWTH:0 "超级真菌"
 
   opinion_fatalf_lost_country:0 "支持创始殖民地"
   opinion_fatalf_shot_colony:0  "向开过来的船开火！"

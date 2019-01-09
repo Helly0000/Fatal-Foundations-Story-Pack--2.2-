@@ -56,8 +56,8 @@
     fatalf_stable_wormhole_name:0 "固定虫洞"
     fatalf_stable_wormhole_desc:0 "看起来这个虫洞不会再次移动，我们的扫描显示它可以安全通过。一旦我们通过了虫洞，我们会找到那些我们失去的人吗？"
 
-    overgrowth_hangar:0 "过度生长的机库"
-    d_fatalf_overgrowth:0 "传染性的过度生长"
+    overgrowth_hangar:0 "超级真菌的机库"
+    d_fatalf_overgrowth:0 "传染性的超级真菌"
     d_fatalf_overgrowth_desc:0 "我们应该在它再次传播之前清除它。"
 
     
